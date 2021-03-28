@@ -1,0 +1,11 @@
+Model Information:
+* title:	Regal Armor
+* source:	https://sketchfab.com/3d-models/regal-armor-22e5b0ce7d334bda99fafb7e446a01cd
+* author:	Lucia Criscuolo (https://sketchfab.com/Neruth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Regal Armor" (https://sketchfab.com/3d-models/regal-armor-22e5b0ce7d334bda99fafb7e446a01cd) by Lucia Criscuolo (https://sketchfab.com/Neruth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
